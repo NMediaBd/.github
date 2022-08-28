@@ -1,5 +1,8 @@
-# NMedia
+# Introduction
 N Media is an online platform that offers a straight, modern, sharp take on the world, guiding people through topics ranging from lifestyle, entertainment, health, food, travel, sports, business, economics, policy, socio-politics, literature & technology.
+
+**Facebook**: [https://www.facebook.com/NMedia360](https://www.facebook.com/NMedia360)
+**Youtube**: [https://www.youtube.com/c/NMediaBd](https://www.youtube.com/c/NMediaBd)
 
 ## Privacy policy
 N Media is committed to protecting your personal information when you are using any of our websites or applications.
